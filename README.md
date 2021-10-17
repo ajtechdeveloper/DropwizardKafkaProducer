@@ -1,6 +1,6 @@
 # Dropwizard Kafka Producer
 
-[![Build Status](https://travis-ci.org/ajtechdeveloper/DropwizardKafkaProducer.svg?branch=master)](https://travis-ci.org/ajtechdeveloper/DropwizardKafkaProducer)
+[![build](https://github.com/ajtechdeveloper/DropwizardKafkaProducer/actions/workflows/build.yml/badge.svg)](https://github.com/ajtechdeveloper/DropwizardKafkaProducer/actions/workflows/build.yml)
 
 Application with Dropwizard and Kafka Producer Integration
 
